@@ -1,5 +1,5 @@
 ## <span style="color: blue;"> My Github Profile </span>
-# Hello! 👋
+# Hallo gess
 Nama: Zidan Maulana Ibrahim 
 Asal saya dari Sukabumi Jawa Barat
 Saya suka belajar Linux, jaringan, dan pemrograman.
